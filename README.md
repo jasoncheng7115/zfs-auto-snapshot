@@ -11,7 +11,7 @@
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
-透過這支工具可以很容易的建立出四種不同排程的快照，名稱格式為 
+透過這支工具可以很容易的建立出五種不同排程的快照，名稱格式為 
 - (刻) @zfs-auto-snap_frequent 
 - (時) @zfs-auto-snap_hourly 
 - (日) @zfs-auto-snap_daily 
