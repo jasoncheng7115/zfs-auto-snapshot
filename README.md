@@ -25,7 +25,7 @@
 &nbsp;&nbsp;
 
 
-#### 安裝說明下載方式說明
+#### 安裝說明
 
     wget https://github.com/jasoncheng7115/zfs-auto-snapshot/archive/master.zip
     unzip master.zip
