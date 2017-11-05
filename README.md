@@ -1,4 +1,4 @@
-# zfs-auto-snapshot-tzPatch / zfs 自動快照工具時區問題更新檔
+# zfs-auto-snapshot-tzPatch / zfs 自動快照工具時區問題修正版
 
 &nbsp;&nbsp;
 ## 套件說明
