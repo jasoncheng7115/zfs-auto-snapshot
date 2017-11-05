@@ -31,3 +31,13 @@
     unzip master.zip
     cd zfs-auto-snapshot-master
     make install
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+#### 已安裝原專案更新方式 (待測)
+
+    cd ~
+    wget https://raw.githubusercontent.com/jasoncheng7115/zfs-auto-snapshot/master/src/zfs-auto-snapshot.sh
+    cp ~/zfs-auto-snapshot.sh /usr/local/sbin/
+    chmod +x usr/local/sbin/zfs-auto-snapshot.sh
