@@ -1,4 +1,4 @@
-# zfs-auto-snapshot-tzPatch / zfs-auto-snapshot 時區問題更新檔
+# zfs-auto-snapshot-tzPatch / zfs 自動快照工具時區問題更新檔
 
 &nbsp;&nbsp;
 ## 套件說明
@@ -27,5 +27,5 @@
 
     wget https://github.com/jasoncheng7115/zfs-auto-snapshot/archive/master.zip
     unzip master.zip
-    cd zfs-auto-snapshot-master
+    cd zfs-auto-snapshot-master
     make install
