@@ -17,7 +17,7 @@
 - (月) @zfs-auto-snap_monthly 
 
 
-本程式是以 Shell Script 形式撰寫，可以設定在 cron 排程裡，也可以直接在命令模式下執行它。
+本程式是以 Shell Script 形式撰寫，放進 cron 排程裡自動執行，也可以直接在命令模式下執行它。
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
